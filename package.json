@@ -1,19 +1,19 @@
 {
-  "name": "grunt-jsxhint",
-  "description": "jshint for jsx",
-  "version": "0.6.0",
-  "homepage": "https://github.com/tillarnold/grunt-jsxhint",
-  "author": "Till Arnold",
+  "name": "grunt-jshint-react",
+  "description": "jshint for react",
+  "version": "0.6.1",
+  "homepage": "https://github.com/rockneurotiko/grunt-jshint-react",
+  "author": "Till Arnold, Rock Neurotiko",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tillarnold/grunt-jsxhint.git"
+    "url": "git://github.com/rockneurotiko/grunt-jshint-react.git"
   },
   "scripts": {
     "jshint": "jshint tasks/*"
   },
   "bugs": {
-    "url": "https://github.com/tillarnold/grunt-jsxhint/issues"
+    "url": "https://github.com/rockneurotiko/grunt-jshint-react/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
